@@ -18,5 +18,5 @@
 ### Cápitulo 2
 
 [rocketseat]: https://www.rocketseat.com.br
-[todo]: https://github.com/capelaum/ignite-desafios/tree/main/TodoList
-[watch_me]: https://github.com/capelaum/ignite-desafios/tree/main/WatchMe
+[todo]: https://www.github.com/capelaum/ignite-desafios/tree/main/TodoList
+[watch_me]: https://www.github.com/capelaum/ignite-desafios/tree/main/WatchMe
