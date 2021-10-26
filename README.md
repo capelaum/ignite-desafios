@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src=".github/ignite.svg" alt="WatchMe">
+  <img src=".github/ignite.svg" alt="WatchMe" width="150">
   <h1>Ignite - Desafios</h1>
   <h4>
     Repositório de desafios feitos no treinamento ignite da
