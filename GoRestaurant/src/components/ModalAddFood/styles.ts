@@ -32,7 +32,7 @@ export const Form = styled.form`
     }
 
     &::placeholder {
-      color: #b7b7cc;
+      color: #333;
     }
   }
 
