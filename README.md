@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src=".github/ignite.svg" alt="WatchMe" width="150">
   <h1>Ignite - Desafios</h1>
@@ -12,11 +11,26 @@
 
 ### Cápitulo 1
 
-- [React TodoList](todo)
-- [WatchMe](watch_me)
+<a href="https://github.com/capelaum/ignite-desafios/tree/main/TodoList">
+  React Todo
+</a>
+<br />
+<a href="https://github.com/capelaum/ignite-desafios/tree/main/WhatchMe">
+  WatchMe
+</a>
 
 ### Cápitulo 2
 
+<a href="https://github.com/capelaum/ignite-desafios/tree/main/RocketShoes">
+  RocketShoes
+</a>
+<br />
+<a href="https://github.com/capelaum/ignite-desafios/tree/main/GoRestaurant">
+  GoRestaurant
+</a>
+
 [rocketseat]: https://www.rocketseat.com.br
-[todo]: https://www.github.com/capelaum/ignite-desafios/tree/main/TodoList
+[todo]: https://capelaum-react-todo.netlify.app/
 [watch_me]: https://www.github.com/capelaum/ignite-desafios/tree/main/WatchMe
+[rocketshoes]: https://capelaum-rocketshoes.netlify.app/
+[gorestaurant]: https://capelaum-go-restaurant.netlify.app/
